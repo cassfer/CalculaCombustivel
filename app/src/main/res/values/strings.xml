@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculo Combustível</string>
+    <string name="distancia">Distancia</string>
+    <string name="preco">Preço</string>
+    <string name="preco_por_litro">Preço por litro</string>
+    <string name="total_de_quilometros">Total de quilometros</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="km_litro">KM/Litro</string>
+    <string name="gasto_total">Seu gasto total será de:</string>
+    <string name="calcular">Calcular</string>
+</resources>
